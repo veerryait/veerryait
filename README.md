@@ -36,6 +36,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vee&" alt="veerryait" /></p>
 
-## Snake Eating My GitHub Contributions: 
-![snake gif](https://github.com/veerryait/blob/output/github-contribution-grid-snake.gif)
+
 
