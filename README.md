@@ -1,6 +1,6 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="35px" height="35px" alt=""> Hello World ! <img src="https://c.tenor.com/fmM4QaupL4wAAAAj/earth-png.gif" alr="" width="30px" height="30px"></h1>
-<h3 align="center"><i>I am Veer Singh Ryait, a pre-final year Computer Science Undergrad from UPES Dehradun. I'm a Machine Learning Enthusiast, Front-end Developer. I love to explore and learn about new domains.</i></h3>
+<h3 align="center"><i>I am Veer Singh Ryait, a Pre-Final year Computer Science Undergraduate from UPES Dehradun. I'm a Machine Learning Enthusiast, Front-End Developer. I love to explore and learn about new domains. Computer Science in Data Analytics with a passion for Project Management, looking for an internship in a reputed asset company, where I can apply my strong fundamental research and technical analysis skills to for the company. I am an initiative driven person, who in order to challenge myself, needs an innovative environment. I aspire to build on my experience in Project Management to become a leading manager in the industry. Proven ability to deliver consistent results through strong problem-solving skills and a vision for organizational growth. I am a very highly organized and collaborative person with extreme accountability and ownership.</i></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="display: block;">
 
 
